@@ -1,0 +1,26 @@
+readcode5B,desc
+535..,Standard chest X-ray
+535..,Chest X-ray - routine
+5351.,Standard chest X-ray requested
+5352.,Standard chest X-ray normal
+5352.,Chest X-ray normal
+5353.,Standard chest X-ray abnormal
+535Z.,Standard chest X-ray NOS
+536..,Soft tissue X-ray chest
+5361.,Soft tiss.X-ray chest normal
+5362.,Soft tiss.X-ray chest abnormal
+5364.,Soft tiss.X-ray lung/bronchus
+5364.,Lung soft tis. X-ray
+536Z.,Soft tissue X-ray chest NOS
+5637.,Tomography - lungs
+563A.,Tomography - chest
+563A0,Tomography - chest normal
+563A1,Tomography - chest abnormal
+56780,CT (computed tomography) of chest and abdomen
+56780,CT of thorax and abdomen
+56781,"CT (computed tomography) of chest, abdomen and pelvis"
+56781,"CT of thorax, abdomen and pelvis"
+68C1.,Screening chest X-ray
+7P040,Computed tomography of chest
+7P042,Plain x-ray of chest
+ZV725,[V]Routine chest X-ray

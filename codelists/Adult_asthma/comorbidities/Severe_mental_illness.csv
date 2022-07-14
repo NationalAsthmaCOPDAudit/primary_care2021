@@ -1,0 +1,329 @@
+category,readcode5B,desc
+Psychosis resolved,212T.,"Psychosis, schizophrenia + bipolar affective disord resolved"
+Psychosis resolved,212X.,Psychosis resolved
+Psychosis,E0...,Organic psychotic conditions
+Psychosis,E00..,Senile and presenile organic psychotic conditions
+Psychosis,E000.,Uncomplicated senile dementia
+Psychosis,E001.,Presenile dementia
+Psychosis,E0010,Uncomplicated presenile dementia
+Psychosis,E0011,Presenile dementia with delirium
+Psychosis,E0012,Presenile dementia with paranoia
+Psychosis,E0013,Presenile dementia with depression
+Psychosis,E001z,Presenile dementia NOS
+Psychosis,E002.,Senile dementia with depressive or paranoid features
+Psychosis,E0020,Senile dementia with paranoia
+Psychosis,E0021,Senile dementia with depression
+Psychosis,E002z,Senile dementia with depressive or paranoid features NOS
+Psychosis,E003.,Senile dementia with delirium
+Psychosis,E004.,Arteriosclerotic dementia
+Psychosis,E0040,Uncomplicated arteriosclerotic dementia
+Psychosis,E0041,Arteriosclerotic dementia with delirium
+Psychosis,E0042,Arteriosclerotic dementia with paranoia
+Psychosis,E0043,Arteriosclerotic dementia with depression
+Psychosis,E004z,Arteriosclerotic dementia NOS
+Psychosis,E00y.,Other senile and presenile organic psychoses
+Psychosis,E00z.,Senile or presenile psychoses NOS
+Psychosis,E01..,Alcoholic psychoses
+Psychosis,E010.,Alcohol withdrawal delirium
+Psychosis,E011.,Alcohol amnestic syndrome
+Psychosis,E0110,Korsakov's alcoholic psychosis
+Psychosis,E0111,Korsakov's alcoholic psychosis with peripheral neuritis
+Psychosis,E0112,Wernicke-Korsakov syndrome
+Psychosis,E011z,Alcohol amnestic syndrome NOS
+Psychosis,E012.,Other alcoholic dementia
+Psychosis,E0120,Chronic alcoholic brain syndrome
+Psychosis,E013.,Alcohol withdrawal hallucinosis
+Psychosis,E014.,Pathological alcohol intoxication
+Psychosis,E015.,Alcoholic paranoia
+Psychosis,E01y.,Other alcoholic psychosis
+Psychosis,E01y0,Alcohol withdrawal syndrome
+Psychosis,E01yz,Other alcoholic psychosis NOS
+Psychosis,E01z.,Alcoholic psychosis NOS
+Psychosis,E02..,Drug psychoses
+Psychosis,E020.,Drug withdrawal syndrome
+Psychosis,E021.,Drug-induced paranoia or hallucinatory states
+Psychosis,E0210,Drug-induced paranoid state
+Psychosis,E0211,Drug-induced hallucinosis
+Psychosis,E021z,Drug-induced paranoia or hallucinatory state NOS
+Psychosis,E022.,Pathological drug intoxication
+Psychosis,E023.,Nicotine withdrawal
+Psychosis,E02y.,Other drug psychoses
+Psychosis,E02y0,Drug-induced delirium
+Psychosis,E02y1,Drug-induced dementia
+Psychosis,E02y2,Drug-induced amnestic syndrome
+Psychosis,E02y3,Drug-induced depressive state
+Psychosis,E02y4,Drug-induced personality disorder
+Psychosis,E02yz,Other drug psychoses NOS
+Psychosis,E02z.,Drug psychosis NOS
+Psychosis,E03..,Transient organic psychoses
+Psychosis,E030.,Acute confusional state
+Psychosis,E0300,"Acute confusional state, post traumatic"
+Psychosis,E0301,"Acute confusional state, of infective origin"
+Psychosis,E0302,"Acute confusional state, of endocrine origin"
+Psychosis,E0303,"Acute confusional state, of metabolic origin"
+Psychosis,E0304,"Acute confusional state, of cerebrovascular origin"
+Psychosis,E030z,Acute confusional state NOS
+Psychosis,E031.,Subacute confusional state
+Psychosis,E0310,"Subacute confusional state, post traumatic"
+Psychosis,E0311,"Subacute confusional state, of infective origin"
+Psychosis,E0312,"Subacute confusional state, of endocrine origin"
+Psychosis,E0313,"Subacute confusional state, of metabolic origin"
+Psychosis,E0314,"Subacute confusional state, of cerebrovascular origin"
+Psychosis,E031z,Subacute confusional state NOS
+Psychosis,E03y.,Other transient organic psychoses
+Psychosis,E03y0,Organic delusional syndrome
+Psychosis,E03y1,Organic hallucinosis syndrome
+Psychosis,E03y2,Organic affective syndrome
+Psychosis,E03y3,Unspecified puerperal psychosis
+Psychosis,E03yz,Other transient organic psychoses NOS
+Psychosis,E03z.,Transient organic psychoses NOS
+Psychosis,E04..,Other chronic organic psychoses
+Psychosis,E040.,Non-alcoholic amnestic syndrome
+Psychosis,E041.,Dementia in conditions EC
+Psychosis,E042.,Chronic confusional state
+Psychosis,E04y.,Other specified chronic organic psychoses
+Psychosis,E04z.,Chronic organic psychosis NOS
+Psychosis,E0y..,Other specified organic psychoses
+Psychosis,E0z..,Organic psychoses NOS
+Psychosis,E1...,Non-organic psychoses
+Psychosis,E10..,Schizophrenic disorders
+Psychosis,E100.,Simple schizophrenia
+Psychosis,E1000,Unspecified schizophrenia
+Psychosis,E1001,Subchronic schizophrenia
+Psychosis,E1002,Chronic schizophrenic
+Psychosis,E1003,Acute exacerbation of subchronic schizophrenia
+Psychosis,E1004,Acute exacerbation of chronic schizophrenia
+Psychosis,E1005,Schizophrenia in remission
+Psychosis,E100z,Simple schizophrenia NOS
+Psychosis,E101.,Hebephrenic schizophrenia
+Psychosis,E1010,Unspecified hebephrenic schizophrenia
+Psychosis,E1011,Subchronic hebephrenic schizophrenia
+Psychosis,E1012,Chronic hebephrenic schizophrenia
+Psychosis,E1013,Acute exacerbation of subchronic hebephrenic schizophrenia
+Psychosis,E1014,Acute exacerbation of chronic hebephrenic schizophrenia
+Psychosis,E1015,Hebephrenic schizophrenia in remission
+Psychosis,E101z,Hebephrenic schizophrenia NOS
+Psychosis,E102.,Catatonic schizophrenia
+Psychosis,E1020,Unspecified catatonic schizophrenia
+Psychosis,E1021,Subchronic catatonic schizophrenia
+Psychosis,E1022,Chronic catatonic schizophrenia
+Psychosis,E1023,Acute exacerbation of subchronic catatonic schizophrenia
+Psychosis,E1024,Acute exacerbation of chronic catatonic schizophrenia
+Psychosis,E1025,Catatonic schizophrenia in remission
+Psychosis,E102z,Catatonic schizophrenia NOS
+Psychosis,E103.,Paranoid schizophrenia
+Psychosis,E1030,Unspecified paranoid schizophrenia
+Psychosis,E1031,Subchronic paranoid schizophrenia
+Psychosis,E1032,Chronic paranoid schizophrenia
+Psychosis,E1033,Acute exacerbation of subchronic paranoid schizophrenia
+Psychosis,E1034,Acute exacerbation of chronic paranoid schizophrenia
+Psychosis,E1035,Paranoid schizophrenia in remission
+Psychosis,E103z,Paranoid schizophrenia NOS
+Psychosis,E104.,Acute schizophrenic episode
+Psychosis,E105.,Latent schizophrenia
+Psychosis,E1050,Unspecified latent schizophrenia
+Psychosis,E1051,Subchronic latent schizophrenia
+Psychosis,E1052,Chronic latent schizophrenia
+Psychosis,E1053,Acute exacerbation of subchronic latent schizophrenia
+Psychosis,E1054,Acute exacerbation of chronic latent schizophrenia
+Psychosis,E1055,Latent schizophrenia in remission
+Psychosis,E105z,Latent schizophrenia NOS
+Psychosis,E106.,Residual schizophrenia
+Psychosis,E107.,Schizo-affective schizophrenia
+Psychosis,E1070,Unspecified schizo-affective schizophrenia
+Psychosis,E1071,Subchronic schizo-affective schizophrenia
+Psychosis,E1072,Chronic schizo-affective schizophrenia
+Psychosis,E1073,Acute exacerbation subchronic schizo-affective schizophrenia
+Psychosis,E1074,Acute exacerbation of chronic schizo-affective schizophrenia
+Psychosis,E1075,Schizo-affective schizophrenia in remission
+Psychosis,E107z,Schizo-affective schizophrenia NOS
+Psychosis,E10y.,Other schizophrenia
+Psychosis,E10y0,Atypical schizophrenia
+Psychosis,E10y1,Coenesthopathic schizophrenia
+Psychosis,E10yz,Other schizophrenia NOS
+Psychosis,E10z.,Schizophrenia NOS
+Psychosis,E11..,Affective psychoses
+Psychosis,E110.,"Manic disorder, single episode"
+Psychosis,E1100,"Single manic episode, unspecified"
+Psychosis,E1101,"Single manic episode, mild"
+Psychosis,E1102,"Single manic episode, moderate"
+Psychosis,E1103,"Single manic episode, severe without mention of psychosis"
+Psychosis,E1104,"Single manic episode, severe, with psychosis"
+Psychosis,E1105,Single manic episode in partial or unspecified remission
+Psychosis,E1106,Single manic episode in full remission
+Psychosis,E110z,"Manic disorder, single episode NOS"
+Psychosis,E111.,Recurrent manic episodes
+Psychosis,E1110,"Recurrent manic episodes, unspecified"
+Psychosis,E1111,"Recurrent manic episodes, mild"
+Psychosis,E1112,"Recurrent manic episodes, moderate"
+Psychosis,E1113,"Recurrent manic episodes, severe without mention psychosis"
+Psychosis,E1114,"Recurrent manic episodes, severe, with psychosis"
+Psychosis,E1115,"Recurrent manic episodes, partial or unspecified remission"
+Psychosis,E1116,"Recurrent manic episodes, in full remission"
+Psychosis,E111z,Recurrent manic episode NOS
+Psychosis,E112.,Single major depressive episode
+Psychosis,E1120,"Single major depressive episode, unspecified"
+Psychosis,E1121,"Single major depressive episode, mild"
+Psychosis,E1122,"Single major depressive episode, moderate"
+Psychosis,E1123,"Single major depressive episode, severe, without psychosis"
+Psychosis,E1124,"Single major depressive episode, severe, with psychosis"
+Psychosis,E1125,"Single major depressive episode, partial or unspec remission"
+Psychosis,E1126,"Single major depressive episode, in full remission"
+Psychosis,E112z,Single major depressive episode NOS
+Psychosis,E113.,Recurrent major depressive episode
+Psychosis,E1130,"Recurrent major depressive episodes, unspecified"
+Psychosis,E1131,"Recurrent major depressive episodes, mild"
+Psychosis,E1132,"Recurrent major depressive episodes, moderate"
+Psychosis,E1133,"Recurrent major depressive episodes, severe, no psychosis"
+Psychosis,E1134,"Recurrent major depressive episodes, severe, with psychosis"
+Psychosis,E1134,"Recurrent major depressive episodes, severe, with psychosis"
+Psychosis,E1135,"Recurrent major depressive episodes,partial/unspec remission"
+Psychosis,E1136,"Recurrent major depressive episodes, in full remission"
+Psychosis,E1137,Recurrent depression
+Psychosis,E113z,Recurrent major depressive episode NOS
+Psychosis,E114.,"Bipolar affective disorder, currently manic"
+Psychosis,E1140,"Bipolar affective disorder, currently manic, unspecified"
+Psychosis,E1141,"Bipolar affective disorder, currently manic, mild"
+Psychosis,E1142,"Bipolar affective disorder, currently manic, moderate"
+Psychosis,E1143,"Bipolar affect disord, currently manic, severe, no psychosis"
+Psychosis,E1144,"Bipolar affect disord, currently manic,severe with psychosis"
+Psychosis,E1145,"Bipolar affect disord,currently manic, part/unspec remission"
+Psychosis,E1146,"Bipolar affective disorder, currently manic, full remission"
+Psychosis,E114z,"Bipolar affective disorder, currently manic, NOS"
+Psychosis,E115.,"Bipolar affective disorder, currently depressed"
+Psychosis,E1150,"Bipolar affective disorder, currently depressed, unspecified"
+Psychosis,E1151,"Bipolar affective disorder, currently depressed, mild"
+Psychosis,E1152,"Bipolar affective disorder, currently depressed, moderate"
+Psychosis,E1153,"Bipolar affect disord, now depressed, severe, no psychosis"
+Psychosis,E1154,"Bipolar affect disord, now depressed, severe with psychosis"
+Psychosis,E1155,"Bipolar affect disord, now depressed, part/unspec remission"
+Psychosis,E1156,"Bipolar affective disorder, now depressed, in full remission"
+Psychosis,E115z,"Bipolar affective disorder, currently depressed, NOS"
+Psychosis,E116.,Mixed bipolar affective disorder
+Psychosis,E1160,"Mixed bipolar affective disorder, unspecified"
+Psychosis,E1161,"Mixed bipolar affective disorder, mild"
+Psychosis,E1162,"Mixed bipolar affective disorder, moderate"
+Psychosis,E1163,"Mixed bipolar affective disorder, severe, without psychosis"
+Psychosis,E1164,"Mixed bipolar affective disorder, severe, with psychosis"
+Psychosis,E1165,"Mixed bipolar affective disorder, partial/unspec remission"
+Psychosis,E1166,"Mixed bipolar affective disorder, in full remission"
+Psychosis,E116z,"Mixed bipolar affective disorder, NOS"
+Psychosis,E117.,Unspecified bipolar affective disorder
+Psychosis,E1170,"Unspecified bipolar affective disorder, unspecified"
+Psychosis,E1171,"Unspecified bipolar affective disorder, mild"
+Psychosis,E1172,"Unspecified bipolar affective disorder, moderate"
+Psychosis,E1173,"Unspecified bipolar affective disorder, severe, no psychosis"
+Psychosis,E1174,"Unspecified bipolar affective disorder,severe with psychosis"
+Psychosis,E1175,"Unspecified bipolar affect disord, partial/unspec remission"
+Psychosis,E1176,"Unspecified bipolar affective disorder, in full remission"
+Psychosis,E117z,"Unspecified bipolar affective disorder, NOS"
+Psychosis,E118.,Seasonal affective disorder
+Psychosis,E11y.,Other and unspecified manic-depressive psychoses
+Psychosis,E11y0,Unspecified manic-depressive psychoses
+Psychosis,E11y1,Atypical manic disorder
+Psychosis,E11y2,Atypical depressive disorder
+Psychosis,E11y3,Other mixed manic-depressive psychoses
+Psychosis,E11yz,Other and unspecified manic-depressive psychoses NOS
+Psychosis,E11z.,Other and unspecified affective psychoses
+Psychosis,E11z0,Unspecified affective psychoses NOS
+Psychosis,E11z1,Rebound mood swings
+Psychosis,E11z2,Masked depression
+Psychosis,E11zz,Other affective psychosis NOS
+Psychosis,E12..,Paranoid states
+Psychosis,E120.,Simple paranoid state
+Psychosis,E121.,Chronic paranoid psychosis
+Psychosis,E122.,Paraphrenia
+Psychosis,E123.,Shared paranoid disorder
+Psychosis,E12y.,Other paranoid states
+Psychosis,E12y0,Paranoia querulans
+Psychosis,E12yz,Other paranoid states NOS
+Psychosis,E12z.,Paranoid psychosis NOS
+Psychosis,E13..,Other nonorganic psychoses
+Psychosis,E130.,Reactive depressive psychosis
+Psychosis,E131.,Acute hysterical psychosis
+Psychosis,E132.,Reactive confusion
+Psychosis,E133.,Acute paranoid reaction
+Psychosis,E134.,Psychogenic paranoid psychosis
+Psychosis,E135.,Agitated depression
+Psychosis,E13y.,Other reactive psychoses
+Psychosis,E13y0,Psychogenic stupor
+Psychosis,E13y1,Brief reactive psychosis
+Psychosis,E13yz,Other reactive psychoses NOS
+Psychosis,E13z.,Nonorganic psychosis NOS
+Psychosis,E14..,Psychoses with origin in childhood
+Psychosis,E140.,Infantile autism
+Psychosis,E1400,Active infantile autism
+Psychosis,E1401,Residual infantile autism
+Psychosis,E140z,Infantile autism NOS
+Psychosis,E141.,Disintegrative psychosis
+Psychosis,E1410,Active disintegrative psychoses
+Psychosis,E1411,Residual disintegrative psychoses
+Psychosis,E141z,Disintegrative psychosis NOS
+Psychosis,E14y.,Other childhood psychoses
+Psychosis,E14y0,Atypical childhood psychoses
+Psychosis,E14y1,Borderline psychosis of childhood
+Psychosis,E14yz,Other childhood psychoses NOS
+Psychosis,E14z.,Child psychosis NOS
+Psychosis,E1y..,Other specified non-organic psychoses
+Psychosis,E1z..,Non-organic psychosis NOS
+Psychosis,E2122,Schizotypal personality
+Psychosis,Eu2..,"[X]Schizophrenia, schizotypal and delusional disorders"
+Psychosis,Eu20.,[X]Schizophrenia
+Psychosis,Eu200,[X]Paranoid schizophrenia
+Psychosis,Eu201,[X]Hebephrenic schizophrenia
+Psychosis,Eu202,[X]Catatonic schizophrenia
+Psychosis,Eu203,[X]Undifferentiated schizophrenia
+Psychosis,Eu204,[X]Post-schizophrenic depression
+Psychosis,Eu205,[X]Residual schizophrenia
+Psychosis,Eu206,[X]Simple schizophrenia
+Psychosis,Eu20y,[X]Other schizophrenia
+Psychosis,Eu20z,"[X]Schizophrenia, unspecified"
+Psychosis,Eu21.,[X]Schizotypal disorder
+Psychosis,Eu22.,[X]Persistent delusional disorders
+Psychosis,Eu220,[X]Delusional disorder
+Psychosis,Eu221,[X]Delusional misidentification syndrome
+Psychosis,Eu222,[X]Cotard syndrome
+Psychosis,Eu223,[X]Paranoid state in remission
+Psychosis,Eu22y,[X]Other persistent delusional disorders
+Psychosis,Eu22z,"[X]Persistent delusional disorder, unspecified"
+Psychosis,Eu23.,[X]Acute and transient psychotic disorders
+Psychosis,Eu230,[X]Acute polymorphic psychot disord without symp of schizoph
+Psychosis,Eu231,[X]Acute polymorphic psychot disord with symp of schizophren
+Psychosis,Eu232,[X]Acute schizophrenia-like psychotic disorder
+Psychosis,Eu233,[X]Other acute predominantly delusional psychotic disorders
+Psychosis,Eu23y,[X]Other acute and transient psychotic disorders
+Psychosis,Eu23z,"[X]Acute and transient psychotic disorder, unspecified"
+Psychosis,Eu24.,[X]Induced delusional disorder
+Psychosis,Eu25.,[X]Schizoaffective disorders
+Psychosis,Eu250,"[X]Schizoaffective disorder, manic type"
+Psychosis,Eu251,"[X]Schizoaffective disorder, depressive type"
+Psychosis,Eu252,"[X]Schizoaffective disorder, mixed type"
+Psychosis,Eu25y,[X]Other schizoaffective disorders
+Psychosis,Eu25z,"[X]Schizoaffective disorder, unspecified"
+Psychosis,Eu26.,[X]Nonorganic psychosis in remission
+Psychosis,Eu2y.,[X]Other nonorganic psychotic disorders
+Psychosis,Eu2z.,[X]Unspecified nonorganic psychosis
+Psychosis,Eu30.,[X]Manic episode
+Psychosis,Eu300,[X]Hypomania
+Psychosis,Eu301,[X]Mania without psychotic symptoms
+Psychosis,Eu302,[X]Mania with psychotic symptoms
+Psychosis,Eu30y,[X]Other manic episodes
+Psychosis,Eu30z,"[X]Manic episode, unspecified"
+Psychosis,Eu31.,[X]Bipolar affective disorder
+Psychosis,Eu310,"[X]Bipolar affective disorder, current episode hypomanic"
+Psychosis,Eu311,"[X]Bipolar affective disorder, current episode manic without psychotic symptoms"
+Psychosis,Eu312,"[X]Bipolar affective disorder, current episode manic with psychotic symptoms"
+Psychosis,Eu313,"[X]Bipolar affective disorder, current episode mild or moderate depression"
+Psychosis,Eu314,"[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+Psychosis,Eu315,"[X]Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+Psychosis,Eu316,"[X]Bipolar affective disorder, current episode mixed"
+Psychosis,Eu317,"[X]Bipolar affective disorder, currently in remission"
+Psychosis,Eu318,[X]Bipolar affective disorder type I
+Psychosis,Eu319,[X]Bipolar affective disorder type II
+Psychosis,Eu31y,[X]Other bipolar affective disorders
+Psychosis,Eu31z,"[X]Bipolar affective disorder, unspecified"
+Psychosis,Eu323,[X]Severe depressive episode with psychotic symptoms
+Psychosis,Eu328,"[X]Major depression, severe with psychotic symptoms"
+Psychosis,Eu329,"[X]Single major depressive episode, severe, with psychosis, psychosis in remission"
+Psychosis,Eu32A,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+Psychosis,Eu333,"[X]Recurrent depressive disorder, current episode severe with psychotic symptoms"

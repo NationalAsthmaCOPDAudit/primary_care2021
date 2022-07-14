@@ -1,0 +1,5 @@
+category,readcode5B,desc
+FH asthma,12D2.,fh: asthma
+FH asthma,ZV175,[v]family history of asthma
+FH asthma,ZVu67,[x]family history/asthma+other chronic lower resp diseases
+No FH asthma,122C0,no family history of asthma

@@ -1,0 +1,67 @@
+category,readcode5B,desc
+Current smoker,137..,Tobacco consumption
+Current smoker,137..,Smoker - amount smoked
+Current smoker,1372.,Occasional smoker
+Current smoker,1372.,Trivial smoker - < 1 cig/day
+Current smoker,1373.,Light smoker - 1-9 cigs/day
+Current smoker,1374.,Moderate smoker - 10-19 cigs/d
+Current smoker,1375.,Heavy smoker - 20-39 cigs/day
+Current smoker,1376.,Very heavy smoker - 40+cigs/d
+Current smoker,137C.,Keeps trying to stop smoking
+Current smoker,137D.,Admitted tobacco cons untrue ?
+Current smoker,137G.,Trying to give up smoking
+Current smoker,137H.,Pipe smoker
+Current smoker,137J.,Cigar smoker
+Current smoker,137M.,Rolls own cigarettes
+Current smoker,137P.,Cigarette smoker
+Current smoker,137P.,Smoker
+Current smoker,137Q.,Smoking restarted
+Current smoker,137Q.,Smoking started
+Current smoker,137R.,Current smoker
+Current smoker,137V.,Smoking reduced
+Current smoker,137X.,Cigarette consumption
+Current smoker,137Y.,Cigar consumption
+Current smoker,137Z.,Tobacco consumption NOS
+Current smoker,137a.,Pipe tobacco consumption
+Current smoker,137b.,Ready to stop smoking
+Current smoker,137c.,Thinking about stopping smoking
+Current smoker,137d.,Not interested in stopping smoking
+Current smoker,137e.,Smoking restarted
+Current smoker,137f.,Reason for restarting smoking
+Current smoker,137h.,Minutes from waking to first tobacco consumption
+Current smoker,137m.,Failed attempt to stop smoking
+Current smoker,137o.,Waterpipe tobacco consumption
+Current smoker,13cA.,Smokes drugs
+Current smoker,67H6.,Brief intervention for smoking cessation
+Current smoker,745H.,Smoking cessation therapy
+Current smoker,8H7i.,Referral to smoking cessation advisor
+Current smoker,8HTK.,Referral to stop-smoking clinic
+Current smoker,8HkQ.,Referral to NHS stop smoking service
+Current smoker,8IAj.,Smoking cessation advice declined
+Current smoker,9NS02,Referral for smoking cessation service offered
+Current smoker,9OO2.,Refuses stop smoking monitor
+Current smoker,9ko..,Current smoker annual review - enhanced services admin
+Current smoker,9ko..,Current smoker annual review
+Current smoker,ZV4K0,[V]Tobacco use
+Current smoker,ZV6D8,[V]Tobacco abuse counselling
+Ex smoker,1377.,Ex-trivial smoker (<1/day)
+Ex smoker,1378.,Ex-light smoker (1-9/day)
+Ex smoker,1379.,Ex-moderate smoker (10-19/day)
+Ex smoker,137A.,Ex-heavy smoker (20-39/day)
+Ex smoker,137B.,Ex-very heavy smoker (40+/day)
+Ex smoker,137F.,Ex-smoker - amount unknown
+Ex smoker,137K.,Stopped smoking
+Ex smoker,137K0,Recently stopped smoking
+Ex smoker,137L.,Current non-smoker
+Ex smoker,137N.,Ex pipe smoker
+Ex smoker,137O.,Ex cigar smoker
+Ex smoker,137S.,Ex smoker
+Ex smoker,137T.,Date ceased smoking
+Ex smoker,137j.,Ex-cigarette smoker
+Ex smoker,137l.,Ex roll-up cigarette smoker
+Ex smoker,9km..,Ex-smoker annual review - enhanced services administration
+Ex smoker,9km..,Ex-smoker annual review
+Never smoker,1371.,Non-smoker
+Never smoker,1371.,Never smoked tobacco
+Never smoker,9kn..,Non-smoker annual review - enhanced services administration
+Never smoker,9kn..,Non-smoker annual review

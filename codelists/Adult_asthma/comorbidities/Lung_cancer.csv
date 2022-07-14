@@ -1,0 +1,26 @@
+readcode5B,desc
+B22..,"malignant neoplasm of trachea, bronchus and lung"
+B221.,malignant neoplasm of main bronchus
+B2210,malignant neoplasm of carina of bronchus
+B2211,malignant neoplasm of hilus of lung
+B221z,malignant neoplasm of main bronchus nos
+B222.,"malignant neoplasm of upper lobe, bronchus or lung"
+B2220,malignant neoplasm of upper lobe bronchus
+B2221,malignant neoplasm of upper lobe of lung
+B222z,"malignant neoplasm of upper lobe, bronchus or lung nos"
+B223.,"malignant neoplasm of middle lobe, bronchus or lung"
+B2230,malignant neoplasm of middle lobe bronchus
+B2231,malignant neoplasm of middle lobe of lung
+B223z,"malignant neoplasm of middle lobe, bronchus or lung nos"
+B224.,"malignant neoplasm of lower lobe, bronchus or lung"
+B2240,malignant neoplasm of lower lobe bronchus
+B2241,malignant neoplasm of lower lobe of lung
+B224z,"malignant neoplasm of lower lobe, bronchus or lung nos"
+B225.,malignant neoplasm of overlapping lesion of bronchus & lung
+B22y.,malignant neoplasm of other sites of bronchus or lung
+B22z.,malignant neoplasm of bronchus or lung nos
+B22z.,lung cancer
+B570.,secondary malignant neoplasm of lung
+Byu20,"[x]malignant neoplasm of bronchus or lung, unspecified"
+ZV101,[v]personal history of malignant neoplasm of bronchus
+ZV101,[v]personal history of malignant neoplasm of lung

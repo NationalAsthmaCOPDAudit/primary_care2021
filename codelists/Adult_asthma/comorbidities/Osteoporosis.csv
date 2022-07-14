@@ -1,0 +1,82 @@
+readcode5B,desc
+14GB.,History of osteoporosis
+585O.,Quantitative ultrasound scan of heel - result osteoporotic
+58E4.,Forearm DXA scan result osteoporotic
+58E5.,Forearm DXA scan result osteopenic
+58EA.,Heel DXA scan result osteoporotic
+58EB.,Heel DXA scan result osteopenic
+58EG.,Hip DXA scan result osteoporotic
+58EM.,Lumbar DXA scan result osteoporotic
+58EV.,Femoral neck DEXA scan result osteoporotic
+58EW.,Femoral neck DEXA scan result osteopenic
+66a..,Osteoporosis monitoring
+66a0.,Initial osteoporosis assessment
+66a1.,Follow-up osteoporosis assessment
+66a2.,Osteoporosis treatment started
+66a3.,Osteoporosis treatment stopped
+66a4.,Osteoporosis treatment changed
+66a5.,Osteoporosis - no treatment
+66a6.,Osteoporosis - dietary advice
+66a7.,Osteoporosis - dietary assessment
+66a8.,Osteoporosis - exercise advice
+66a9.,Osteoporosis - falls prevention
+66aA.,Osteoporosis - treatment response
+66aB.,Osteoporosis - no treatment response
+66aE.,Refer to osteoporosis specialist
+679F.,Health education - osteoporosis
+8B6b.,Osteoporosis medication prophylaxis
+8HTS.,Referral to osteoporosis clinic
+8I6c.,Osteoporosis treatment not indicated
+9N0h.,Seen in osteoporosis clinic
+9Od..,Osteoporosis monitoring administration
+9Od0.,Attends osteoporosis monitoring
+9Od1.,Refuses osteoporosis monitoring
+9Od2.,Osteoporosis monitoring default
+9Od3.,Osteoporosis monitoring first letter
+9Od4.,Osteoporosis monitoring second letter
+9Od5.,Osteoporosis monitoring third letter
+9Od7.,Osteoporosis monitoring telephone invitation
+9Od8.,Osteoporosis monitoring deleted
+9Od9.,Osteoporosis monitoring check done
+9hP..,Exception reporting: osteoporosis quality indicators
+9hP0.,Excepted osteoporosis quality indicators: patient unsuitable
+9kj..,Osteoporosis - enhanced services administration
+9kj0.,Bone sparing drug treatment offered for osteoporosis - ESA
+N330.,Osteoporosis
+N3300,"Osteoporosis, unspecified"
+N3301,Senile osteoporosis
+N3302,Postmenopausal osteoporosis
+N3303,Idiopathic osteoporosis
+N3304,Dissuse osteoporosis
+N3305,Drug-induced osteoporosis
+N3306,Postoophorectomy osteoporosis
+N3307,Postsurgical malabsorption osteoporosis
+N3308,Localized osteoporosis - Lequesne
+N3309,Osteoporosis in multiple myelomatosis
+N330A,Osteoporosis in endocrine disorders
+N330B,Vertebral osteoporosis
+N330C,Osteoporosis localized to spine
+N330D,Osteoporosis due to corticosteroids
+N330z,Osteoporosis NOS
+N331.,Osteoporotic vertebral collapse
+N3312,Postoophorectomy osteoporosis with pathological fracture
+N3313,Osteoporosis of disuse with pathological fracture
+N3314,Postsurgical malabsorption osteoporosis with path fracture
+N3315,Drug-induced osteoporosis with pathological fracture
+N3316,Idiopathic osteoporosis with pathological fracture
+N3318,Osteoporosis + pathological fracture lumbar vertebrae
+N3319,Osteoporosis + pathological fracture thoracic vertebrae
+N331A,Osteoporosis + pathological fracture cervical vertebrae
+N331B,Postmenopausal osteoporosis with pathological fracture
+N331H,Collapse of cervical vertebra due to osteoporosis
+N331J,Collapse of lumbar vertebra due to osteoporosis
+N331K,Collapse of thoracic vertebra due to osteoporosis
+N331L,Collapse of vertebra due to osteoporosis NOS
+N331M,Minimal trauma fracture due to unspecified osteoporosis
+N331M,Fragility fracture due to unspecified osteoporosis
+N3746,Osteoporotic kyphosis
+NyuB0,[X]Other osteoporosis with pathological fracture
+NyuB1,[X]Other osteoporosis
+NyuB8,[X]Unspecified osteoporosis with pathological fracture
+PG52.,Osteopetrosis
+PG520,Osteopetrosis - unclassified

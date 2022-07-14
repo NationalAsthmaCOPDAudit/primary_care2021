@@ -1,0 +1,55 @@
+readcode5B,desc
+1O1..,heart failure confirmed
+585f.,Echocardiogram shows left ventricular systolic dysfunction
+585g.,Echocardiogram shows left ventricular diastolic dysfunction
+661M5,heart failure self-management plan agreed
+662T.,congestive heart failure monitoring
+662W.,heart failure annual review
+662f.,New York Heart Association classification - class I
+662g.,New York Heart Association classification - class II
+662h.,New York Heart Association classification - class III
+662i.,New York Heart Association classification - class IV
+662p.,heart failure 6 month review
+679W1,education about deteriorating heart failure
+8B29.,Cardiac failure therapy
+8CL3.,heart failure care plan discussed with patient
+8CMK.,has heart failure management plan
+8CMW8,heart failure clinical pathway
+8CeC.,preferred place of care for next exacerbation heart failure
+8H2S.,admit heart failure emergency
+8HBE.,heart failure follow-up
+8HHz.,referral to heart failure exercise programme
+9N0k.,seen in heart failure clinic
+9N2p.,seen by community heart failure nurse
+9N6T.,referred by heart failure nurse specialist
+G2101,malignant hypertensive heart disease with ccf
+G2111,benign hypertensive heart disease with ccf
+G21z1,hypertensive heart disease nos with ccf
+G232.,hypertensive heart&renal dis wth (congestive) heart failure
+G234.,Hyperten heart&renal dis+both(congestv)heart and renal fail
+G58..,heart failure
+G58..,cardiac failure
+G580.,congestive heart failure
+G580.,congestive cardiac failure
+G580.,right heart failure
+G580.,right ventricular failure
+G580.,biventricular failure
+G5800,acute congestive heart failure
+G5801,chronic congestive heart failure
+G5802,decompensated cardiac failure
+G5803,compensated cardiac failure
+G5804,congestive heart failure due to valvular disease
+G581.,left ventricular failure
+G581.,impaired left ventricular function
+G5810,acute left ventricular failure
+G582.,acute heart failure
+G583.,heart failure with normal ejection fraction
+G583.,hfnef - heart failure with normal ejection fraction
+G583.,heart failure with preserved ejection fraction
+G584.,right ventricular failure
+G58z.,heart failure nos
+G58z.,cardiac failure nos
+G5y4z,post cardiac operation heart failure nos
+G5yy9,Left ventricular systolic dysfunction
+G5yyA,Left ventricular diastolic dysfunction
+SP111,heart failure as a complication of care

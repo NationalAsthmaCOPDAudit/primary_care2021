@@ -1,0 +1,42 @@
+category,readcode5B,desc
+FEV1,339O.,Forced expired volume in 1 second
+FEV1,339O0,Forced expired volume in 1 second reversibility
+FEV1,339a.,FEV1 before bronchodilation
+FEV1,339b.,FEV1 after bronchodilation
+FEV1,339e.,FEV1 pre steroids
+FEV1,339f.,FEV1 post steroids
+FEV1 %-predicted,339S.,Percent predicted FEV1
+FEV1 %-predicted,339S0,Percentage predicted FEV1 after bronchodilation
+FEV1/FVC ratio,3398.,FEV1/FVC ratio normal
+FEV1/FVC ratio,3399.,FEV1/FVC ratio abnormal
+FEV1/FVC ratio,339M.,FEV1/FVC ratio
+FEV1/FVC ratio,339O1,Forced expired volume in one second/vital capacity ratio
+FEV1/FVC ratio,339R.,FEV1/FVC percent
+FEV1/FVC ratio,339T.,FEV1/FVC > 70% of predicted
+FEV1/FVC ratio,339U.,FEV1/FVC < 70% of predicted
+FEV1/FVC ratio,339j.,FEV1/FVC ratio pre steroids
+FEV1/FVC ratio,339k.,FEV1/FVC ratio post steroids
+FEV1/FVC ratio,339l.,FEV1/FVC ratio before bronchodilator
+FEV1/FVC ratio,339m.,FEV1/FVC ratio after bronchodilator
+FEV1/FVC ratio,339r.,FEV1/VC percent
+FVC,339h0,FVC post bronchodilator percentage change
+Reversibility,33G..,Spirometry reversibility
+Reversibility,33G0.,Spirometry reversibility negative
+Reversibility,33G1.,Spirometry reversibility positive
+Reversibility,33H..,Salbutamol reversibility
+Reversibility,33H0.,Negative reversibility test to salbutamol
+Reversibility,33H1.,Positive reversibility test to salbutamol
+Reversibility,33I..,Ipratropium reversibility
+Reversibility,33I0.,Negative reversibility test to ipratropium bromide
+Reversibility,33I1.,Positive reversibility test to ipratropium bromide
+Reversibility,33J..,Combined reversibility
+Reversibility,33J0.,Neg reversibil test to combinat of salbutamol + ipratrop br
+Reversibility,33J1.,Pos reversib test to combin of salbutamol + ipratropium br
+Reversibility,33K..,Steroid reversibility
+Reversibility,33K0.,Negative reversibility test to corticosteroid
+Reversibility,33K1.,Positive reversibility test to corticosteroids
+Reversibility,663J.,Airways obstruction reversible
+Reversibility,663K.,Airways obstructn irreversible
+Reversibility,663k.,Reversibility trial by steroids
+Reversibility,66Ya.,Reversibility trial by bronchodilator
+Reversibility,66Yb.,Reversibility trial by anticholinergic

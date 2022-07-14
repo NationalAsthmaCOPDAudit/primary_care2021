@@ -1,0 +1,78 @@
+readcode5B,desc
+14M3.,H/O: multiple allergies
+2227.,O/E - allergic rash
+3355.,Skin:type 1 immediate reaction
+3359.,Allergy skin test positive
+3365.,Bronchial allergy challenge
+66G4.,Allergy drug side effect
+D310.,Allergic purpura
+D310z,Allergic purpura NOS
+D4033,Allergic eosinophilia
+F4C06,Acute atopic conjunctivitis
+F4C06,Acute allergic conjunctivitis
+F4C14,Other chronic allergic conjunctivitis
+F4C14,Allergic conjunctivitis
+F4D31,Contact or allergic eyelid dermatitis
+F4D31,Allergic dermatitis - eyelid
+F5104,Acute allergic serous otitis media
+F5105,Acute allergic mucoid otitis media
+F5106,Acute allergic sanguinous otitis media
+F5130,Chronic allergic otitis media
+F5140,Allergic otitis media NOS
+H025.,Allergic pharyngitis
+H17..,Allergic rhinitis
+H17..,Allergic rhinosinusitis
+H170.,Allergic rhinitis due to pollens
+H171.,Allergic rhinitis due to other allergens
+H171.,Cat allergy
+H171.,Dander (animal) allergy
+H171.,Feather allergy
+H171.,Hay fever - other allergen
+H171.,House dust allergy
+H171.,House dust mite allergy
+H1710,Allergy to animal
+H1711,Dog allergy
+H172.,Allergic rhinitis due to unspecified allergen
+H172.,Hay fever - unspecified allergen
+H17z.,Allergic rhinitis NOS
+H330.,Extrinsic (atopic) asthma
+H330.,Allergic asthma
+H33zz,Allergic asthma NEC
+H33zz,Allergic bronchitis NEC
+H35z.,Allergic alveolitis and pneumonitis NOS
+H35z0,Allergic extrinsic alveolitis NOS
+H35zz,Allergic alveolitis and pneumonitis NOS
+Hyu20,[X]Other seasonal allergic rhinitis
+Hyu21,[X]Other allergic rhinitis
+J0720,Allergic parotitis
+J1540,Allergic gastritis
+J4321,Allergic enteritis
+J4322,Allergic enterocolitis
+M11..,Atopic dermatitis and related conditions
+M111.,Atopic dermatitis/eczema
+M114.,Allergic (intrinsic) eczema
+M117.,Neurodermatitis - atopic
+M11z.,Atopic dermatitis NOS
+M128.,Allergic contact dermatitis
+M1280,Allergic contact dermatitis due to adhesives
+M1282,Allergic contact dermatitis due drugs in contact with skin
+M1283,Allergic contact dermatitis due to dyes
+M1285,Allergic contact dermatitis due to food in contact with skin
+M1286,"Allergic contact dermatitis due to plants, except food"
+M280.,Allergic urticaria
+Myu23,[X]Allergic contact dermatitis due to other agents
+N0628,Allergic arthritis of other specified site
+N0629,Allergic arthritis of multiple sites
+SN52.,Allergic drug reaction NOS
+SN53.,"Allergy, unspecified"
+SN530,Allergic reaction
+SN531,Latex allergy
+SN59.,Allergic reaction to venom
+SN590,Allergic reaction to bee sting
+SN591,Allergic reaction to insect bite
+SN592,Allergic reaction to wasp sting
+SN5A.,Oral allergy syndrome
+U6030,[X] Adverse reaction to antiallergic and antiemetic drugs
+ZL182,Under care of clinical allergist
+ZV14M,[V]Personal history of vitamin D3 allergy
+ZVu6M,[X]Personal history of allergy to other antibiotic agents

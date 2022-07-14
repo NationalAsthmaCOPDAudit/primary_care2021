@@ -1,0 +1,40 @@
+category,readcode5B,desc
+Peak flow,339A.,Peak flow rate before bronchodilation
+Peak flow,339B.,Peak flow rate after bronchodilation
+Peak flow diary,66YY.,Peak expiratory flow rate monitoring using diary
+Other peak flow,3393.,Resp. flow rate normal
+Other peak flow,3394.,Resp. flow rate abnormal
+Other peak flow,3395.,Peak exp. flow rate: PEFR/PFR
+Other peak flow,33950,Diurnal variation of peak expiratory flow rate
+Other peak flow,33951,Peak expiratory flow rate after exercise
+Other peak flow,339D.,Best ever peak flow rate
+Other peak flow,339E.,More than 80% of predicted peak flow rate
+Other peak flow,339F.,60-80% of predicted peak flow rate
+Other peak flow,339G.,Less than 60% of predicted peak flow rate
+Other peak flow,339H.,Predicted peak flow
+Other peak flow,339I.,Expected peak flow rate x 50%
+Other peak flow,339J.,Optimal peak flow rate
+Other peak flow,339K.,Expected peak flow rate x 30%
+Other peak flow,339L.,Expected peak flow rate x 80%
+Other peak flow,339W.,Worst peak flow rate
+Other peak flow,339X.,Percentage of best ever peak expiratory flow rate
+Other peak flow,339Y.,Percentage of peak expiratory flow rate variability
+Other peak flow,339Z.,Respiratory flow rates NOS
+Other peak flow,339c.,Peak expiratory flow rate pre steroids
+Other peak flow,339d.,Peak expiratory flow rate post steroids
+Other peak flow,339g.,Serial peak expiratory flow rate
+Other peak flow,339n.,Serial peak expiratory flow rate abnormal
+Other peak flow,339o.,Peak expiratory flow rate measured using EN 13826 device
+Other peak flow,339p.,Predicted peak expiratory flow rate using EN 13826 standard
+Other peak flow,663S.,Peak flow meter at home
+Other peak flow,66Y1.,Peak expiratory flow rate - technique poor
+Other peak flow,66Y2.,Peak expiratory flow rate - technique moderate
+Other peak flow,66Y3.,Peak expiratory flow rate - technique good
+Other peak flow,66Y6.,Peak expiratory flow rate - compliance good
+Other peak flow,66Y7.,Peak expiratory flow rate - compliance moderate
+Other peak flow,66Y8.,Peak expiratory flow rate - compliance poor
+Other peak flow,66YN.,Peak expiratory flow rate compliance
+Other peak flow,66YO.,Peak expiratory flow rate technique
+Other peak flow,66YX.,Peak expiratory flow rate monitoring
+Other peak flow,66Yc.,Number of cons days less than 80% peak expiratory flow rate
+Other peak flow,745C0,Measurement of peak expiratory flow rate

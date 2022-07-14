@@ -1,0 +1,102 @@
+readcode5B,desc
+Fyu56,[x]other lacunar syndromes
+G60..,subarachnoid haemorrhage
+G600.,ruptured berry aneurysm
+G601.,subarachnoid haemorrhage from carotid siphon and bifurcation
+G602.,subarachnoid haemorrhage from middle cerebral artery
+G603.,subarachnoid haemorrhage from anterior communicating artery
+G604.,subarachnoid haemorrhage from posterior communicating artery
+G605.,subarachnoid haemorrhage from basilar artery
+G606.,subarachnoid haemorrhage from vertebral artery
+G60X.,"subarachnoid haemorrh from intracranial artery, unspecif"
+G60z.,subarachnoid haemorrhage nos
+G61..,intracerebral haemorrhage
+G61..,cva - cerebrovascular accid due to intracerebral haemorrhage
+G61..,stroke due to intracerebral haemorrhage
+G610.,cortical haemorrhage
+G611.,internal capsule haemorrhage
+G612.,basal nucleus haemorrhage
+G613.,cerebellar haemorrhage
+G614.,pontine haemorrhage
+G615.,bulbar haemorrhage
+G616.,external capsule haemorrhage
+G617.,"intracerebral haemorrhage, intraventricular"
+G618.,"intracerebral haemorrhage, multiple localized"
+G619.,lobar cerebral haemorrhage
+G61X.,"intracerebral haemorrhage in hemisphere, unspecified"
+G61X0,"left sided intracerebral haemorrhage, unspecified"
+G61X1,"right sided intracerebral haemorrhage, unspecified"
+G61z.,intracerebral haemorrhage nos
+G62..,other and unspecified intracranial haemorrhage
+G620.,extradural haemorrhage - nontraumatic
+G621.,subdural haemorrhage - nontraumatic
+G622.,subdural haematoma - nontraumatic
+G623.,subdural haemorrhage nos
+G62z.,intracranial haemorrhage nos
+G63..,precerebral arterial occlusion
+G63..,infarction - precerebral
+G630.,basilar artery occlusion
+G631.,carotid artery occlusion
+G631.,"thrombosis, carotid artery"
+G632.,vertebral artery occlusion
+G633.,multiple and bilateral precerebral arterial occlusion
+G63y.,other precerebral artery occlusion
+G63y0,cerebral infarct due to thrombosis of precerebral arteries
+G63y1,cerebral infarction due to embolism of precerebral arteries
+G63z.,precerebral artery occlusion nos
+G64..,cerebral arterial occlusion
+G64..,cva - cerebral artery occlusion
+G64..,infarction - cerebral
+G64..,stroke due to cerebral arterial occlusion
+G640.,cerebral thrombosis
+G6400,cerebral infarction due to thrombosis of cerebral arteries
+G641.,cerebral embolism
+G641.,cerebral embolus
+G6410,cerebral infarction due to embolism of cerebral arteries
+G64z.,cerebral infarction nos
+G64z.,brainstem infarction nos
+G64z.,cerebellar infarction
+G64z0,brainstem infarction
+G64z2,left sided cerebral infarction
+G64z3,right sided cerebral infarction
+G64z4,infarction of basal ganglia
+G66..,stroke and cerebrovascular accident unspecified
+G66..,cva unspecified
+G66..,stroke unspecified
+G66..,cva - cerebrovascular accident unspecified
+G660.,middle cerebral artery syndrome
+G661.,anterior cerebral artery syndrome
+G662.,posterior cerebral artery syndrome
+G663.,brain stem stroke syndrome
+G664.,cerebellar stroke syndrome
+G665.,pure motor lacunar syndrome
+G666.,pure sensory lacunar syndrome
+G667.,left sided cva
+G668.,right sided cva
+G671.,generalised ischaemic cerebrovascular disease nos
+G6710,acute cerebrovascular insufficiency nos
+G671z,generalised ischaemic cerebrovascular disease nos
+G6760,"cereb infarct due cerebral venous thrombosis, nonpyogenic"
+G6770,occlusion and stenosis of middle cerebral artery
+G6771,occlusion and stenosis of anterior cerebral artery
+G6772,occlusion and stenosis of posterior cerebral artery
+G6773,occlusion and stenosis of cerebellar arteries
+G6774,occlusion+stenosis of multiple and bilat cerebral arteries
+G679.,small vessel cerebrovascular disease
+G67y.,other cerebrovascular disease os
+G67z.,other cerebrovascular disease nos
+G6W..,cereb infarct due unsp occlus/stenos precerebr arteries
+G6X..,cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+G6y..,other specified cerebrovascular disease
+G6z..,cerebrovascular disease nos
+Gyu6.,[x]cerebrovascular diseases
+Gyu60,[x]subarachnoid haemorrhage from other intracranial arteries
+Gyu61,[x]other subarachnoid haemorrhage
+Gyu62,[x]other intracerebral haemorrhage
+Gyu63,[x]cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Gyu64,[x]other cerebral infarction
+Gyu65,[x]occlusion and stenosis of other precerebral arteries
+Gyu66,[x]occlusion and stenosis of other cerebral arteries
+Gyu6E,"[x]subarachnoid haemorrh from intracranial artery, unspecif"
+Gyu6F,"[x]intracerebral haemorrhage in hemisphere, unspecified"
+Gyu6G,[x]cereb infarct due unsp occlus/stenos precerebr arteries

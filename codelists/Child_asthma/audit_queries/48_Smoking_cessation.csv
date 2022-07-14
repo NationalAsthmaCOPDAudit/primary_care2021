@@ -1,0 +1,195 @@
+category,readcode5B,desc
+Behavioural change intervention,13p..,Smoking cessation milestones
+Behavioural change intervention,13p0.,Negotiated date for cessation of smoking
+Behavioural change intervention,13p5.,Smoking cessation programme start date
+Behavioural change intervention,13p50,Practice based smoking cessation programme start date
+Behavioural change intervention,13p8.,Lost to smoking cessation follow-up
+Behavioural change intervention,67H6.,Brief intervention for smoking cessation
+Behavioural change intervention,745H.,Smoking cessation therapy
+Behavioural change intervention,745Hy,Other specified smoking cessation therapy
+Behavioural change intervention,8CAL.,Smoking cessation advice
+Behavioural change intervention,8CAg.,Smoking cessation advice provided by community pharmacist
+Behavioural change intervention,8H7i.,Referral to smoking cessation advisor
+Behavioural change intervention,8HBM.,Stop smoking face to face follow-up
+Behavioural change intervention,8HBP.,Smoking cessation 12 week follow-up
+Behavioural change intervention,8HTK.,Referral to stop-smoking clinic
+Behavioural change intervention,8HkQ.,Referral to NHS stop smoking service
+Behavioural change intervention,8IAj.,Smoking cessation advice declined
+Behavioural change intervention,8IEK.,Smoking cessation programme declined
+Behavioural change intervention,8IEM.,Smoking cessation drug therapy declined
+Behavioural change intervention,8IEo.,Referral to smoking cessation service declined
+Behavioural change intervention,8T08.,Referral to smoking cessation service
+Behavioural change intervention,9N2k.,Seen by smoking cessation advisor
+Behavioural change intervention,9N4M.,DNA - Did not attend smoking cessation clinic
+Behavioural change intervention,9NS02,Referral for smoking cessation service offered
+Behavioural change intervention,9NdV.,Consent given follow-up after smoking cessation intervention
+Behavioural change intervention,9NdW.,Consent given for smoking cessation data sharing
+Behavioural change intervention,9NdY.,Declin cons follow-up evaluation after smoking cess interven
+Behavioural change intervention,9NdZ.,Declined consent for smoking cessation data sharing
+Behavioural change intervention,9Ndf.,Consent given for follow-up by smoking cessation team
+Behavioural change intervention,9Ndg.,Declined consent for follow-up by smoking cessation team
+Behavioural change intervention,9OO..,Stop smoking clinic admin.
+Behavioural change intervention,9OO..,Stop smoking monitoring admin.
+Behavioural change intervention,9OO1.,Attends stop smoking monitor.
+Behavioural change intervention,9OO2.,Refuses stop smoking monitor
+Behavioural change intervention,9OO3.,Stop smoking monitor default
+Behavioural change intervention,9OO8.,Stop smoking monitor phone inv
+Behavioural change intervention,9OO9.,Stop smoking monitoring delete
+Behavioural change intervention,9OOA.,Stop smoking monitor.chck done
+Behavioural change intervention,9OOZ.,Stop smoking monitor admin.NOS
+Behavioural change intervention,9kc..,Smoking cessation - enhanced services administration
+Behavioural change intervention,9kc0.,Smoking cessation ESA monitoring template completed
+Behavioural change intervention,9kc0.,Smoking cessatn monitor template complet - enhanc serv admin
+Drug,745H0,Nicotine replacement therapy using nicotine patches
+Drug,745H1,Nicotine replacement therapy using nicotine gum
+Drug,745H2,Nicotine replacement therapy using nicotine inhalator
+Drug,745H3,Nicotine replacement therapy using nicotine lozenges
+Drug,745H4,Smoking cessation drug therapy
+Drug,745Hz,Smoking cessation therapy NOS
+Drug,8B2B.,Nicotine replacement therapy
+Drug,8B2B0,Issue of nicotine replacement therapy voucher
+Drug,8B31G,Varenicline smoking cessation therapy offered
+Drug,8B3Y.,Over the counter nicotine replacement therapy
+Drug,8B3f.,Nicotine replacement therapy provided free
+Drug,8BP3.,Nicotine replacement therapy provided by community pharmacis
+Drug,8I2I.,Nicotine replacement therapy contraindicated
+Drug,8I39.,Nicotine replacement therapy refused
+Drug,du3..,NICOTINE
+Drug,du31.,NICOTINE 2mg chewing gum
+Drug,du32.,NICOTINE 4mg chewing gum
+Drug,du33.,NICORETTE 2mg chewing gum
+Drug,du34.,NICORETTE 4mg chewing gum
+Drug,du35.,NICOTINELL TTS 10 patches
+Drug,du36.,NICOTINELL TTS 20 patches
+Drug,du37.,NICOTINELL TTS 30 patches
+Drug,du38.,NICOTINE 7mg/24hours patches
+Drug,du39.,NICOTINE 14mg/24hours patches
+Drug,du3A.,NICOTINE 21mg/24hours patches
+Drug,du3B.,NICORETTE 5mg patches x7
+Drug,du3C.,NICORETTE 10mg patches x7
+Drug,du3D.,NICORETTE 15mg patches x7
+Drug,du3E.,NICORETTE 15mg patches x28
+Drug,du3F.,NICOTINE 5mg/16hours patches
+Drug,du3G.,NICOTINE 10mg/16hours patches
+Drug,du3H.,NICOTINE 15mg/16hours patches
+Drug,du3I.,NIQUITIN CQ 2mg original lozenges
+Drug,du3J.,NICABATE 7mg patches x14
+Drug,du3K.,NICABATE 14mg patches x14
+Drug,du3L.,NICABATE 21mg patches x14
+Drug,du3M.,NICABATE 7mg patches x7
+Drug,du3N.,NICABATE 14mg patches x7
+Drug,du3O.,NIQUITIN CQ 7mg/24hours clear patches
+Drug,du3P.,NICABATE 21mg patches x7
+Drug,du3Q.,NICORETTE 15mg patches x3
+Drug,du3R.,NICONIL-11 patches
+Drug,du3S.,NICONIL-22 patches
+Drug,du3T.,NICOTINE 11mg/24hours patches
+Drug,du3U.,NICOTINE 22mg/24hours patches
+Drug,du3V.,NICORETTE 2mg mint chewing gum
+Drug,du3W.,NICORETTE MINT PLUS 4mg chewing gum
+Drug,du3X.,NICOTINE 2mg mint chewing gum
+Drug,du3Y.,NICOTINE 4mg mint chewing gum
+Drug,du3Z.,NICONIL 22 starter pack
+Drug,du3a.,NICORETTE nasal spray
+Drug,du3b.,NICOTINE 10mg/mL nasal spray
+Drug,du3c.,NICOTINELL ORIGINAL 2mg chewing gum
+Drug,du3d.,NICOTINELL MINT 2mg chewing gum
+Drug,du3e.,NICOTINE 10mg inhalator starter pack
+Drug,du3f.,NICOTINE 10mg inhalator refill pack
+Drug,du3g.,NICORETTE 10mg inhalator starter pack
+Drug,du3h.,NICORETTE 10mg inhalator refill pack
+Drug,du3i.,NICOTINELL ORIGINAL 4mg chewing gum
+Drug,du3j.,NICOTINELL MINT 4mg chewing gum
+Drug,du3k.,NIQUITIN CQ 7mg/24hours patches
+Drug,du3l.,NIQUITIN CQ 14mg/24hours patches
+Drug,du3m.,NIQUITIN CQ 21mg/24hours patches
+Drug,du3n.,NICOTINE 2mg sublingual tablets
+Drug,du3o.,NICORETTE MICROTAB 2mg sublingual tablets
+Drug,du3p.,NICOTINE 1mg mint lozenges
+Drug,du3q.,NICOTINELL MINT 1mg lozenges
+Drug,du3r.,NIQUITIN CQ 14mg/24hours clear patches
+Drug,du3s.,NIQUITIN CQ 21mg/24hours clear patches
+Drug,du3t.,NICOTINE 2mg fruit chewing gum
+Drug,du3u.,NICOTINE 4mg fruit chewing gum
+Drug,du3v.,NICOTINE 2mg citrus chewing gum
+Drug,du3w.,NICORETTE CITRUS 2mg chewing gum
+Drug,du3x.,NICOTINE 1mg lozenges
+Drug,du3y.,NICOTINE 2mg lozenges
+Drug,du3z.,NICOTINE 4mg lozenges
+Drug,du6..,BUPROPION
+Drug,du61.,ZYBAN 150mg m/r tablets
+Drug,du6z.,BUPROPION HYDROCHLORIDE 150mg m/r tablets
+Drug,du7..,NICOTINE 2
+Drug,du71.,NIQUITIN CQ 4mg original lozenges
+Drug,du72.,NIQUITIN CQ 2mg mint chewing gum
+Drug,du73.,NIQUITIN CQ 4mg mint chewing gum
+Drug,du74.,NICORETTE 15mg patches x2
+Drug,du75.,NICOTINELL 2mg liquorice chewing gum
+Drug,du76.,NICOTINELL 4mg liquorice chewing gum
+Drug,du77.,NICOTINELL 2mg mint lozenges
+Drug,du78.,NIQUITIN CQ 2mg mint lozenges
+Drug,du79.,NIQUITIN CQ 4mg mint lozenges
+Drug,du7A.,NICORETTE FRESHMINT 2mg chewing gum
+Drug,du7B.,NICORETTE FRESHMINT 4mg chewing gum
+Drug,du7C.,NICOTINELL CLASSIC 2mg chewing gum
+Drug,du7D.,NICOTINELL CLASSIC 4mg chewing gum
+Drug,du7E.,NICORETTE FRESHFRUIT 2mg chewing gum
+Drug,du7F.,NICORETTE FRESHFRUIT 4mg chewing gum
+Drug,du7G.,NICOPATCH 7mg/24hours patches
+Drug,du7H.,NICOPATCH 14mg/24hours patches
+Drug,du7I.,NICOPATCH 21mg/24hours patches
+Drug,du7J.,NICOPASS 1.5mg fresh mint lozenges
+Drug,du7K.,NICOPASS 1.5mg liquorice mint lozenges
+Drug,du7L.,NIQUITIN PRE-QUIT 4mg mint lozenges
+Drug,du7M.,NICORETTE INVISI 10mg patches
+Drug,du7N.,NICORETTE INVISI 15mg patches
+Drug,du7O.,NICORETTE INVISI 25mg patches
+Drug,du7P.,NICORETTE ICY WHITE 2mg chewing gum
+Drug,du7Q.,NICORETTE ICY WHITE 4mg chewing gum
+Drug,du7R.,NIQUITIN MINIS MINT 1.5mg lozenges
+Drug,du7S.,NIQUITIN MINIS MINT 4mg lozenges
+Drug,du7T.,NICORETTE MICROTAB LEMON 2mg sublingual tablets
+Drug,du7U.,NICORETTE COMBI 15mg patches and 2mg chewing gum
+Drug,du7V.,NIQUITIN MINIS 1.5mg cherry lozenges
+Drug,du7W.,NIQUITIN MINIS 4mg cherry lozenges
+Drug,du7X.,NICORETTE FRESHMINT 2mg lozenges
+Drug,du7Y.,NICORETTE QUICKMIST 1mg oromucosal spray
+Drug,du7Z.,NICOTINELL ICEMINT 2mg chewing gum
+Drug,du7a.,NICOTINELL ICEMINT 4mg chewing gum
+Drug,du7b.,NICORETTE 15mg inhalator
+Drug,du7c.,NICOTINE 15mg inhalator
+Drug,du7d.,NICASSIST 7mg/24hours patches
+Drug,du7e.,NICASSIST 14mg/24hours patches
+Drug,du7f.,NICASSIST 21mg/24hours patches
+Drug,du7g.,NICORETTE COOLS 2mg lozenges
+Drug,du7h.,NICORETTE COOLS 4mg lozenges
+Drug,du7i.,NIQUITIN PRE-QUIT 21mg/24 hours clear patches
+Drug,du7j.,NICORETTE FRUITFUSION 2mg chewing gum
+Drug,du7k.,NICORETTE FRUITFUSION 4mg chewing gum
+Drug,du7l.,NICORETTE FRUITFUSION 6mg chewing gum
+Drug,du7n.,NICOTINE 6mg fruit chewing gum
+Drug,du7o.,NICOTINE 4mg icemint chewing gum
+Drug,du7p.,NICOTINE 2mg icemint chewing gum
+Drug,du7q.,NICOTINE 1mg oromucosal spray
+Drug,du7r.,NICOTINE 1.5mg cherry lozenges
+Drug,du7s.,NICOTINE 4mg cherry lozenges
+Drug,du7t.,NICOTINE 15mg/16hours patches and 2mg chewing gum
+Drug,du7u.,NICOTINE 1.5mg lozenges
+Drug,du7v.,NICOTINE 25mg/16hours patches
+Drug,du7w.,NICOTINE 1.5mg fresh mint lozenges
+Drug,du7x.,NICOTINE 1.5mg liquorice mint lozenges
+Drug,du7y.,NICOTINE 4mg liquorice chewing gum
+Drug,du7z.,NICOTINE 2mg liquorice chewing gum
+Drug,du8..,VARENICLINE
+Drug,du81.,CHAMPIX 1mg tablets
+Drug,du82.,CHAMPIX 500microgram tablets
+Drug,du83.,CHAMPIX TREATMENT INITIATION pack
+Drug,du8x.,VARENICLINE 500micrograms+1mg tablets
+Drug,du8y.,VARENICLINE 500microgram tablets
+Drug,du8z.,VARENICLINE 1mg tablets
+Drug,duB..,NICOTINE 3
+Drug,duB1.,NIQUITIN STRIPS 2.5mg mint oral film
+Drug,duB2.,NIQUITIN MINIS 1.5mg orange lozenges
+Drug,duB3.,NICOTINELL SUPPORT ICEMINT 2mg chewing gum
+Drug,duB4.,NICOTINELL SUPPORT ICEMINT 4mg chewing gum
+Drug,duBz.,NICOTINE 2.5mg oral film

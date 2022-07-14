@@ -1,0 +1,68 @@
+readcode5B,desc
+918e.,On learning disability register
+E3...,Mental retardation
+E30..,Educationally subnormal
+E30..,"Mild mental retardation, IQ in range 50-70"
+E31..,Other specified mental retardation
+E310.,"Moderate mental retardation, IQ in range 35-49"
+E311.,"Severe mental retardation, IQ in range 20-34"
+E312.,Profound mental retardation with IQ less than 20
+E31z.,Other specified mental retardation NOS
+E3y..,Other specified mental retardation
+E3z..,Mental retardation NOS
+Eu7..,[X]Mental retardation
+Eu70.,[X]Mild mental subnormality
+Eu70.,[X]Mild mental retardation
+Eu700,[X]Mld mental retard with statement no or min impairm behav
+Eu701,[X]Mld mental retard sig impairment behav req attent/treatmt
+Eu70y,"[X]Mild mental retardation, other impairments of behaviour"
+Eu70z,[X]Mild mental retardation without mention impairment behav
+Eu71.,[X]Moderate mental subnormality
+Eu71.,[X]Moderate mental retardation
+Eu710,[X]Mod mental retard with statement no or min impairm behav
+Eu711,[X]Mod mental retard sig impairment behav req attent/treatmt
+Eu71y,[X]Mod retard oth behav impair
+Eu71z,[X]Mod mental retardation without mention impairment behav
+Eu72.,[X]Severe mental subnormality
+Eu72.,[X]Severe mental retardation
+Eu720,[X]Sev mental retard with statement no or min impairm behav
+Eu721,[X]Sev mental retard sig impairment behav req attent/treatmt
+Eu72y,"[X]Severe mental retardation, other impairments of behaviour"
+Eu72z,[X]Sev mental retardation without mention impairment behav
+Eu73.,[X]Profound mental subnormality
+Eu73.,[X]Profound mental retardation
+Eu730,[X]Profound ment retrd wth statement no or min impairm behav
+Eu731,[X]Profound ment retard sig impairmnt behav req attent/treat
+Eu73y,"[X]Profound mental retardation, other impairments of behavr"
+Eu73z,[X]Prfnd mental retardation without mention impairment behav
+Eu7y.,[X]Other mental retardation
+Eu7y0,[X]Oth mental retard with statement no or min impairm behav
+Eu7y1,[X]Oth mental retard sig impairment behav req attent/treatmt
+Eu7yy,"[X]Other mental retardation, other impairments of behaviour"
+Eu7yz,[X]Other mental retardation without mention impairment behav
+Eu7z.,[X]Mental subnormality NOS
+Eu7z.,[X]Unspecified mental retardation
+Eu7z.,[X]Mental deficiency NOS
+Eu7z0,[X]Unsp mental retard with statement no or min impairm behav
+Eu7z1,[X]Unsp mentl retard sig impairment behav req attent/treatmt
+Eu7zy,"[X]Unspecified mental retardatn, other impairments of behav"
+Eu7zz,[X]Unsp mental retardation without mention impairment behav
+Eu814,[X]Moderate learning disability
+Eu815,[X]Severe learning disability
+Eu816,[X]Mild learning disability
+Eu817,[X]Profound learning disability
+Eu818,[X]Specific learning disability
+Eu81z,[X]Learning disability NOS
+Eu84.,[X]Pervasive developmental disorders
+Eu841,[X]Mental retardation with autistic features
+Eu844,[X]Overactive disorder assoc mental retard/stereotype movts
+Eu84y,[X]Other pervasive developmental disorders
+Eu84z,"[X]Pervasive developmental disorder, unspecified"
+PJ0..,Trisomy 21
+PJ0..,Mongolism
+PJ0..,Down's syndrome - trisomy 21
+PJ0z.,Down's syndrome NOS
+PJ0z.,Trisomy 21 NOS
+PJyy2,Fragile X chromosome
+PJyy4,Fragile X syndrome
+ZS34.,Learning disability

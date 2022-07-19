@@ -6,9 +6,6 @@
  --------- COPD - Starts line 61
  
  --------- INHALER - Starts line 89
- 
- --------- UNION AND PERMINANT TABLES - starts line 861
- --- Remove those with multiple distinct practice codes - starts line 1191
 
 -- Declare tables of codes
 DECLARE GLOBAL TEMPORARY TABLE Asthma_Codes AS (

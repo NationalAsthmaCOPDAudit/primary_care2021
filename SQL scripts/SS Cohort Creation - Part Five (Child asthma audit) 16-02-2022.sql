@@ -1,4 +1,4 @@
----- GRAND COHORT TWO - CHILDREN (Ages 12-18) ---------------------------------------------------------------------------------------------------------------
+---- PART 5 --- GRAND COHORT TWO - CHILDREN (Ages 12-18) ---------------------------------------------------------------------------------------------------------------
 
 -- Filter Spirometry Values
 DECLARE GLOBAL TEMPORARY TABLE ALL_EVENTS_LESS_THAN_1 AS (
@@ -134,7 +134,7 @@ SELECT * FROM sailw1317v.SS_GC2_Q23
 --2.4 Peak flow (required for all time (ever) and in the past 2 years only)
 --No peak flow codes ever/past 2 years
 --Peak flow 339A. or 339B. codes ever/past 2 years
---Peak flow diary ever/past 2 years (66YY – should be labelled in codelist)
+--Peak flow diary ever/past 2 years (66YY â€“ should be labelled in codelist)
 --Any peak flow test ever/past 2 years
 
 DECLARE GLOBAL TEMPORARY TABLE Cohort_Q24_Events AS ( SELECT wgec.ALF_PE, wgec.EVENT_CD, AAC.EVENT_CAT, wgec.EVENT_DT 
@@ -469,7 +469,7 @@ SELECT * FROM sailw1317v.SS_GC2_Q34
 
 
 --3.5 Smoking status
---Number of people with each smoking status or ‘not asked about smoking’ in the past year -- CATEGORY AND PATIENT ID LIST NOT COUNTS -- WIP 
+--Number of people with each smoking status or â€˜not asked about smokingâ€™ in the past year -- CATEGORY AND PATIENT ID LIST NOT COUNTS -- WIP 
 
 SELECT * FROM sailw1317v.AQ35_SMOKING_STATUS ass 
 

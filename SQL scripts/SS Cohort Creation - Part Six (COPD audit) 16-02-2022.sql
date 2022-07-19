@@ -1,4 +1,4 @@
----- GRAND COHORT THREE - COPD Patients Audit Queries -------------------------------------------------------------------------------------------------------  
+---- Part 6 -- GRAND COHORT THREE - COPD Patients Audit Queries -------------------------------------------------------------------------------------------------------  
 
 DECLARE GLOBAL TEMPORARY TABLE GC3 AS (
 SELECT * FROM sailw1317v.SS_COPD_COMORBIDITY
@@ -149,7 +149,7 @@ SELECT DISTINCT * FROM sailw1317v.SS_GC3_Q22
 ORDER BY ALF_PE 
 
 --3.1 MRC grade
---Proportion of each score or ‘not recorded’ in the past year
+--Proportion of each score or â€˜not recordedâ€™ in the past year
 SELECT * FROM sailw1317v.AQ31_MRC am 
 
 --calculate latest MRC GRADE 
@@ -427,7 +427,7 @@ FROM SESSION.GC3_Q33
 SELECT * FROM sailw1317v.SS_GC3_Q33
 
 ----3.5 Smoking status
---Number of people with each smoking status or ‘not asked about smoking’ in the past year
+--Number of people with each smoking status or â€˜not asked about smokingâ€™ in the past year
  SELECT * FROM sailw1317v.AQ35_SMOKING_STATUS ass 
 
 DECLARE GLOBAL TEMPORARY TABLE Cohort3_Q35_Events AS ( SELECT wgec.ALF_PE, wgec.EVENT_CD, AAC.TERM, wgec.EVENT_DT, AAC.CATEGORY 

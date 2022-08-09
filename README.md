@@ -2,4 +2,4 @@
 
 Details of the audit queries and analysis are available [here](README.pdf).
 
-The published report is available from the [Royal College of Physicians](https://www.rcplondon.ac.uk/projects/outputs/wales-primary-care-clinical-audit-report-2021).
+The published report is available from the [Royal College of Physicians](https://www.rcp.ac.uk/pc2021).
